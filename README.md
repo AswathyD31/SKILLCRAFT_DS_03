@@ -1,5 +1,7 @@
 # Data Science Internship at SkillCraft Technology  
+__________
 ## Task 3 – Exploratory Data Analysis on Online Shoppers Intention Dataset
+________
 
 ## Overview
 This project is part of Task 3 of my Data Science Internship at SkillCraft Technology.  
